@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class Principal {
 
     public static void main(String[] args) {
-        // TODO Auto-generated 
+        // TODO Comentari de prova!
 
         Scanner lector = new Scanner(System.in);
         System.out.println("Introdueix una frase: ");
